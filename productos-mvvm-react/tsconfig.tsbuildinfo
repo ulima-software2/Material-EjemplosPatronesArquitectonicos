@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/modelo/producto.ts","./src/modelo/productorepositorio.ts","./src/viewmodel/productoitem.ts","./src/viewmodel/useproductoviewmodel.ts","./src/vista/productovista.tsx","./vite.config.ts"],"version":"5.9.3"}
